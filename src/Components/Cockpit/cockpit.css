@@ -1,0 +1,25 @@
+.style {
+    background-color: green;
+    color: white;
+    border:1px solid white;
+    padding: 13px;
+    cursor: pointer;
+    
+}   
+
+.style:hover{
+    background-color: lawngreen;
+    color: black;
+}
+
+.AfterShow{
+    background-color: red;
+    color: white;
+    border:1px solid white;
+    padding: 13px;
+    cursor: pointer;
+}
+.AfterShow:hover{
+    background-color: brown;
+    color: black;
+}
